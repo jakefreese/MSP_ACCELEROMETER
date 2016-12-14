@@ -1,0 +1,2 @@
+# MSP_ACCELEROMETER
+Analog devices ADXL345 to MSP430
